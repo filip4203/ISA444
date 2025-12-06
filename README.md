@@ -3,6 +3,8 @@
 This repository contains my final project for **ISA 444 (Forecasting)**.  
 The goal is to forecast **daily room demand** for a panel of hotels and compare several forecasting methods using time-series cross-validation.
 
+Colab Link: https://colab.research.google.com/drive/1g5qYIaAWSCcHY_dy7XtuJBi5tw5FmIHa?usp=sharing
+
 ---
 
 ## 1. Project Overview
