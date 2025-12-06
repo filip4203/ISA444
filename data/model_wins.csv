@@ -1,0 +1,6 @@
+model,wins
+NBEATS,6
+LGBMRegressor,5
+Naive,3
+AutoETS,3
+NHITS,1
